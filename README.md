@@ -5,7 +5,7 @@
 #### About Me:
 
 - 🔭 I’m currently working on improving my Data Science skills
-- 🌱 I’m currently learning Machine Learning models and Microsoft Azure
+- 🌱 I’m currently learning about Machine Learning models
 - 👯 I’m looking to collaborate on building impactful machine learning projects
 - 🤔 I’m looking for help with developing my skill in Azure
 - 📫 How to reach me: **theresasunday299@gmail.com**
