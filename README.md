@@ -35,7 +35,7 @@ But don't worry, I'm not just a data geek. I believe in the power of storytellin
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/theresa-sunday"><img src="https://img.shields.io/badge/-theresa%20sunday%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/theresa-sunday" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/theresa-sunday"><img src="https://img.shields.io/badge/-Theresa%20Sunday%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/theresa-sunday" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@Theresa_Sunday_
 /"><img src="https://img.shields.io/badge/-Theresa Sunday-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
    </p>
