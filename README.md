@@ -37,7 +37,7 @@ But don't worry, I'm not just a data geek. I believe in the power of storytellin
     <p>
         <a href="https://linkedin.com/in/theresa-sunday"><img src="https://img.shields.io/badge/-theresa%20sunday%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/theresa-sunday" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@Theresa_Sunday_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+/"><img src="https://img.shields.io/badge/-Theresa Sunday-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
    </p>
 
  <!-- Conecct section: END -->
@@ -59,15 +59,13 @@ But don't worry, I'm not just a data geek. I believe in the power of storytellin
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Resa200/"><img alt="Theresa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Resa200&custom_title=Theresa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 </details>
 
 <!-- GitHub section: END -->
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Resa200&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Resa200&label=Profile%20views&color=0e75b6&style=flat" alt="Theresa" />
 </p>
 
 <!-- THE END -->
