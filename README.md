@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="">Portfolio</a> •
+  <a href="https://sites.google.com/view/theresa-sunday/home">Portfolio</a> •
   <a href="https://linkedin.com/in/theresa-sunday">Linkedin</a> •
   <a href="https://twitter.com/Theresa_Sunday_">Twitter</a>
 </p>
