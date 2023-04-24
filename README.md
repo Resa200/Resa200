@@ -56,10 +56,6 @@ But don't worry, I'm not just a data geek. I believe in the power of storytellin
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Resa200&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-</details>
 
 <!-- GitHub section: END -->
 
